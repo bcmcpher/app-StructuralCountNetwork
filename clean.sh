@@ -1,5 +1,5 @@
 #!/bin/bash
 
-rm -rf conmat/
-rm -rf networks/
+rm -rf conmat-*
+rm -rf network-*
 rm -f label.json
