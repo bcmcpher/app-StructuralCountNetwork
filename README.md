@@ -14,12 +14,12 @@ As example the App simply does the following:
 </ol>
  
 ### Author
-- [Franco Pestilli](pestilli@utexas.edu)
+- [Brent McPherson](bcmcpher@iu.edu)
 
 ### Contributors
-- [Franco Pestilli](pestilli@utexas.edu)
+- [Brent McPherson](bcmcpher@iu.edu)
 
-#### Copyright (c) 2020 brainlife.io The University of Texas at Austin and Indiana University
+#### Copyright (c) 2021 Brent McPherson, Indiana University
 
 ### Funding Acknowledgement
 brainlife.io is publicly funded and for the sustainability of the project it is helpful to Acknowledge the use of the platform. We kindly ask that you acknowledge the funding below in your code and publications. Copy and past the following lines into your repository when using this code.

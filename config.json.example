@@ -1,5 +1,8 @@
 {
-    "t1": "./t1.nii",
-    "outres": [[1, 1, 1]],
-    "outname": "T1w_resliced1mm.nii"
+    "tracks": "./tracks.tck",
+    "parc": "./parc.nii.gz",
+    "label": "./labels.json",
+    "maxDist": "2",
+    "minStrm": "5",
+
 }
