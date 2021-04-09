@@ -1,5 +1,5 @@
 {
-    "tracks": "./tracks.tck",
+    "track": "./tracks.tck",
     "parc": "./parc.nii.gz",
     "label": "./labels.json",
     "maxDist": "2",
