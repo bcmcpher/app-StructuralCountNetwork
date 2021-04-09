@@ -2,7 +2,7 @@
     "track": "./tracks.tck",
     "parc": "./parc.nii.gz",
     "label": "./labels.json",
-    "maxDist": "2",
-    "minStrm": "5",
+    "maxDist": 2,
+    "minStrm": 5
 
 }
