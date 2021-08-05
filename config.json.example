@@ -1,8 +1,20 @@
 {
+
     "track": "./tracks.tck",
-    "parc": "./parc.nii.gz",
+    "parc": "parc.nii.gz",
     "label": "./labels.json",
+    "mname": "fa",
+    "lnet": "dice",
+    "fa": "./fa.nii.gz",
+    "fe": "./output_fe.mat",
     "maxDist": 2,
-    "minStrm": 5
+    "minStrm": 15,
+    "clean": false,
+    "shapes": false,
+    "minLength": 20,
+    "maxVars": 4,
+    "maxLengthStd": 4, 
+    "numNodes": 100,
+    "maxIter": 10
 
 }
